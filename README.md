@@ -4,7 +4,7 @@ Somos un equipo de emprendedoras, dedicadas a la venta online de una marca simpl
 
 Nosotras somos:
 
-Yesi:
+Jess: mamà de Enzo y Lola, amo pasar tiempo con mi familia y amigos, leer novelas y aprender constantemente. Fans de los gatos, el verano y las series.
 
 Sofi: soy una persona que le encanta aprender cosas nuevas y enfrentarse a pequeños desafíos día a día. Me encantan los animales, el verano y la comida. Disfruto de pasar momentos con amigos y familia.
 
