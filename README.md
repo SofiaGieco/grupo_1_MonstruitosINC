@@ -5,6 +5,7 @@ Somos un equipo de emprendedoras, dedicadas a la venta online de una marca simpl
 
 
 Nosotras somos:
+---------------
 
 Jess: mamà de Enzo y Lola, amo pasar tiempo con mi familia y amigos, leer novelas y aprender constantemente. Fans de los gatos, el verano y las series.
 
@@ -16,10 +17,15 @@ Gise: soy mamá de Santi y Nacho, inquieta, creativa, algo ansiosa, disfruto de 
 Para llevar adelante este proyecto nos inpiramos en las siguientes web:
 
 https://www.mimo.com.ar/ :(jesi)
+
 https://www.grisino.com/ : por distribución de colores, tomamos como mejora los íconos
+
 https://enfans.com.ar/ : formato de pagina, facil usabilidad
+
 https://www.cheeky.com.ar/: (jesi)
+
 https://www.pancha.com.ar/ :(jesi)
+
 https://gepetto.com.ar/ : partes de distribucion de la web en sí como carrusel de productos, ademas de las categorias
 
 
