@@ -9,4 +9,4 @@ Jess: mamà de Enzo y Lola, amo pasar tiempo con mi familia y amigos, leer novel
 
 Sofi: soy una persona que le encanta aprender cosas nuevas y enfrentarse a pequeños desafíos día a día. Me encantan los animales, el verano y la comida. Disfruto de pasar momentos con amigos y familia.
 
-Gise:
+Gise: soy mamá de Santi y Nacho, inquieta, creativa, algo ansiosa, disfruto de compartir momentos con mi familia y amigos. Me encanta viajar y descurbir cosas nuevas. 
